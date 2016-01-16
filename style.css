@@ -1,0 +1,43 @@
+.titlebar
+{
+	
+	border-width: 10px;	
+	border-bottom: 3px solid grey;
+}
+
+.icon
+{
+
+	float:left;
+}
+
+.title
+{
+	font-size: 200%;
+	float:right;
+}
+
+.reel
+{
+	float:left;
+}
+
+.reelcontainer
+{
+	border: 3px solid red;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.main
+{
+	display:block;
+	max-width:1024px;
+	max-height:483px;
+	width:1024px;
+	height:483px;
+	background:url(Persistence-Is-Key-1024x483.jpg) center no-repeat;                           
+	
+}
